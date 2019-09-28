@@ -4,6 +4,7 @@ package DataStructures.Homework4;
 
 /**
  * @author Edward Flores
+ * @date 09/28/2019
  * Description: Uses two arrays that are parrallel to each other,
  * One Array is for all keys and another array is for all values.
  * This array will grow in size so user does not need to worry about capacity.
